@@ -1,0 +1,121 @@
+ OwnerId              : Antar.n 
+ Make                 : Audi 
+ Model                : 221 
+ Year                 : 2014 
+ Fuel Capacity        : 85 
+ Average on Gas       : 25.0 Km/Liter 
+ Range                : 2125.0 Km 
+ No. Of Passangers    : 63 
+ vehicle value        : 40000.0 Dollars 
+ Annual Tax           : 84.0 Dollars
+***End Of An Entry***
+ OwnerId              : barry.allen 
+ Make                 : Harle 
+ Model                : fix 
+ Year                 : 2014 
+ Fuel Capacity        : 85 
+ Average on Gas       : 25.0 Km/Liter 
+ Range                : 2125.0 Km 
+ No. Of Passangers    : 6 
+ vehicle value        : 30000.0 Dollars 
+ Annual Tax           : 63.0 Dollars
+***End Of An Entry***
+ OwnerId              : bestie 
+ Make                 : gm 
+ Model                : grande 
+ Year                 : 2011 
+ Battery Capacity     : 400 
+ Electric Average     : 30.0 Km/W-H 
+ Battery Range        : 12000.0 Km 
+ No. Of Passangers    : 4 
+ vehicle value        : 23333.0 Dollars 
+ Annual Tax           : 48.9993 Dollars
+***End Of An Entry***
+ OwnerId              : Bharati.n 
+ Make                 : Jaguar 
+ Model                : GTX 
+ Year                 : 2010 
+ Fuel Capacity        : 70 
+ Average on Gas       : 6.0 Km/Liter 
+ Range                : 420.0 Km 
+ No. Of Passangers    : 2 
+ vehicle value        : 30000.0 Dollars 
+ Annual Tax           : 63.0 Dollars
+***End Of An Entry***
+ OwnerId              : chinmay.k 
+ Make                 : napa 
+ Model                : nt 
+ Year                 : 2014 
+ Battery Capacity     : 85 
+ Electric Average     : 25.0 Km/W-H 
+ Battery Range        : 2125.0 Km 
+ No. Of Passangers    : 4 
+ vehicle value        : 30040.0 Dollars 
+ Annual Tax           : 63.084 Dollars
+***End Of An Entry***
+ OwnerId              : Harshal.n 
+ Make                 : merc 
+ Model                : Me 
+ Year                 : 2014 
+ Fuel Capacity        : 85 
+ Average on Gas       : 25.0 Km/Liter 
+ Range                : 2125.0 Km 
+ No. Of Passangers    : 6 
+ vehicle value        : 30000.0 Dollars 
+ Annual Tax           : 63.0 Dollars
+***End Of An Entry***
+ OwnerId              : Mark.m 
+ Make                 : ferrari 
+ Model                : mab 
+ Year                 : 2014 
+ Battery Capacity     : 85 
+ Electric Average     : 12.0 Km/W-H 
+ Battery Range        : 1020.0 Km 
+ No. Of Passangers    : 2 
+ vehicle value        : 33000.0 Dollars 
+ Annual Tax           : 69.3 Dollars
+***End Of An Entry***
+ OwnerId              : mat.hardy 
+ Make                 : Volantis 
+ Model                : 68 
+ Year                 : 2014 
+ Battery Capacity     : 85 
+ Electric Average     : 25.0 Km/W-H 
+ Battery Range        : 2125.0 Km 
+ No. Of Passangers    : 2 
+ vehicle value        : 90000.0 Dollars 
+ Annual Tax           : 189.0 Dollars
+***End Of An Entry***
+ OwnerId              : WallyWest 
+ Make                 : Aviator 
+ Model                : 2d 
+ Year                 : 2014 
+ Battery Capacity     : 85 
+ Electric Average     : 25.0 Km/W-H 
+ Battery Range        : 2125.0 Km 
+ No. Of Passangers    : 6 
+ vehicle value        : 60000.0 Dollars 
+ Annual Tax           : 126.0 Dollars
+***End Of An Entry***
+ OwnerId              : Weesel 
+ Make                 : Chevorle 
+ Model                : 93 
+ Year                 : 2014 
+ Fuel Capacity        : 85 
+ Average on Gas       : 4.0 Km/Liter 
+ Range                : 340.0 Km 
+ No. Of Passangers    : 6 
+ vehicle value        : 10000.0 Dollars 
+ Annual Tax           : 21.0 Dollars
+***End Of An Entry***
+ OwnerId              : Won_wiz 
+ Make                 : Verna 
+ Model                : ZsE 
+ Year                 : 2014 
+ Fuel Capacity        : 85 
+ Average on Gas       : 25.0 Km/Liter 
+ Range                : 2125.0 Km 
+ No. Of Passangers    : 6 
+ vehicle value        : 30000.0 Dollars 
+ Annual Tax           : 63.0 Dollars
+***End Of An Entry***

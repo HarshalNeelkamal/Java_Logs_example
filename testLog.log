@@ -1,0 +1,16 @@
+Feb 19, 2017 2:45:41 PM edu.neu.csye6200.registry.VehicleTaxation getInstance
+INFO: Instance Created for VehicleTaxation Class
+Feb 19, 2017 2:45:41 PM edu.neu.csye6200.registry.TaxRegistryIO <init>
+INFO: instance created for TaxRegestryIO
+Feb 19, 2017 2:48:09 PM edu.neu.csye6200.registry.TaxRegistryIO saveVehicle
+INFO: Saving data to file with Name RegestryData
+Feb 19, 2017 2:48:09 PM edu.neu.csye6200.registry.TaxRegistryIO saveVehicle
+INFO: Finished Executing Save
+Feb 19, 2017 2:48:30 PM edu.neu.csye6200.registry.TaxRegistryIO load
+INFO: Loading data from file with Name sdffhgfgff
+Feb 19, 2017 2:48:30 PM edu.neu.csye6200.registry.TaxRegistryIO load
+SEVERE: File Not Found Exception Occured During Load
+Feb 19, 2017 2:49:11 PM edu.neu.csye6200.registry.TaxRegistryIO load
+INFO: Loading data from file with Name RegestryData
+Feb 19, 2017 2:49:11 PM edu.neu.csye6200.registry.TaxRegistryIO load
+INFO: Finished Executing Load
